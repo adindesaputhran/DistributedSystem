@@ -61,7 +61,7 @@ print("Socket successfully created")
 
 # reserve a port on your computer in our
 # case it is 12345 but it can be anything
-port = 65000
+port = 65001
 
 # Next bind to the port
 # we have not typed any ip in the ip field
